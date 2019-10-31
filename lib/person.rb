@@ -92,9 +92,3 @@ class Person
     end
 
 end
-
-# frank = Person.new("Frank")
-# susan = Person.new("Susan")
-
-# binding.pry
-# "end of pry"
